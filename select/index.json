@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Dance In The Game",
+  "base_artist": "ZAQ",
+  "createdAt": "2026-02-18T07:45:34.239055Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dance In The Game",
+      "artist": "ZAQ",
+      "has_synced": true,
+      "path": "select/01_Dance_In_The_Game_ZAQ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dance In The Game",
+      "artist": "ラルケ",
+      "has_synced": true,
+      "path": "select/02_Dance_In_The_Game_ラルケ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dance In The Game",
+      "artist": "ZAQ",
+      "has_synced": true,
+      "path": "select/03_Dance_In_The_Game_ZAQ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dance In The Game",
+      "artist": "ZAQ",
+      "has_synced": true,
+      "path": "select/04_Dance_In_The_Game_ZAQ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Dance In The Game",
+      "artist": "ZAQ",
+      "has_synced": true,
+      "path": "select/05_Dance_In_The_Game_ZAQ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dance in the Game (From \"Classroom of the Elite\")",
+      "artist": "Silver Storm",
+      "has_synced": true,
+      "path": "select/06_Dance_in_the_Game_(From__Classroom_of_the_Elite_)_Silver_Storm.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Classroom of the Elite: Dance in the Game (English Dub Cover) | Silver Storm",
+      "artist": "Silver Storm",
+      "has_synced": true,
+      "path": "select/07_Classroom_of_the_Elite__Dance_in_the_Game_(English_Dub_Cover)___Silver_Storm_Silver_Storm.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dance In The Game (Anime Size)",
+      "artist": "Zaq",
+      "has_synced": true,
+      "path": "select/08_Dance_In_The_Game_(Anime_Size)_Zaq.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dance In The Game",
+      "artist": "ZAQ",
+      "has_synced": false,
+      "path": "select/pl_01_Dance_In_The_Game_ZAQ.txt"
+    }
+  ]
+}
